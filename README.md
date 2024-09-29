@@ -1,2 +1,2 @@
 # tributary
-# Bckend for Sensor Streaming System
+# Backend for Sensor Streaming System
